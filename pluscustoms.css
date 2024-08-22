@@ -1,0 +1,24 @@
+.icon_d8bfb3{
+    color:var(--hashtag-colour);
+  }
+  .name_d8bfb3{
+    color:rgba(255,255,255);
+  }
+  .sidebar_a4d4d9{
+    width: var(--sidebar-width);
+  }
+  .userPanelOuter_c69a7b .userProfileOuterUnthemed_c69a7b.container_ecc60d{
+    Color: rgba(0,0,0, 0.8)
+  }
+  .none_c49869 .scrollerBase_c49869{
+    Color: rgba(0,0,0, 0.8)
+  }
+  .container_cbd271{
+    width: var(--memberslist-width);
+  }
+  .member_a31c43{
+    max-width: calc(var(--memberslist-width) - 40px);
+  }
+  .members_cbd271{
+    width:calc(var(--memberslist-width) - 20px);
+  }
